@@ -52,6 +52,6 @@ I’m always excited to learn new technologies, improve my skills, and collabora
 ---
 
 ## 📫 Connect With Me
-- GitHub: [github.com/MuhammadAsad](https://github.com/MuhammadAsad)
+- GitHub: [github.com/MuhammadAsad](https://github.com/MuhammadAsad00)
 
 ⭐ Feel free to explore my repositories and drop a star if you like my work!
