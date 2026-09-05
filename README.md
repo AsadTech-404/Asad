@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad Asad
 
-### Full-Stack Developer | MERN Stack | Building Intelligent Web Apps
+### AI Automation Engineer & Full-Stack Web Developer
 
 Welcome to my GitHub!  
 I’m a passionate **Full-Stack Developer** who loves turning ideas into **modern, scalable, and user-friendly web applications**. I primarily work with the **MERN Stack** and enjoy building projects related to **AI-powered apps, chat systems, and dashboards**.
@@ -9,7 +9,7 @@ I’m a passionate **Full-Stack Developer** who loves turning ideas into **moder
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Developer (MERN Stack)
+- 💻 Full-Stack Developer
 - 🧠 Focused on clean, efficient, and scalable applications
 - 🤖 Interested in AI-powered apps & modern UI/UX
 - 📚 Currently learning:
